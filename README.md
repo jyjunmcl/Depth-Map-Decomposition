@@ -12,6 +12,7 @@ Official pytorch implementation for **"Depth Map Decomposition for Monocular Dep
 1. For evaluation on NYUv2, download and follow the instructions in the "Prepare NYU Depth V2 test set" section from (https://github.com/cleinc/bts).
 
 2. Move ``nyu_depth_v2`` folder to ```root/``` and download our [model parameters](https://drive.google.com/drive/folders/1zsgT_5AO89WxzlFI53gwjomisb_Gkcox?usp=sharing) to ```root/```.
+Models with 'HRWSI' mean that the model is trained with both NYUv2 and [HR-WSI](https://github.com/KexianHust/Structure-Guided-Ranking-Loss) datasets.
 
 3. Run with
 ```

@@ -1,10 +1,11 @@
 # (ECCV 2022) Depth Map Decomposition for Monocular Depth Estimation
 ### Jinyoung Jun, Jae-Han Lee, Chul Lee, and Chang-Su Kim
 
+Official pytorch implementation for **"Depth Map Decomposition for Monocular Depth Estimation"** [[arxiv]](https://arxiv.org/abs/2208.10762).
+
 <p float="left">
   &emsp;&emsp; <img src="overview.png" width="800" />
 </p>
-Official pytorch implementation for **"Depth Map Decomposition for Monocular Depth Estimation"** [[arxiv]](https://arxiv.org/abs/2208.10762).
 
 ### Instruction
 
